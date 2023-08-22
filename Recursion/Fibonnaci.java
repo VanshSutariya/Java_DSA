@@ -1,6 +1,6 @@
 package Recursion;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class Fibonnaci {
     static int count = 0;
